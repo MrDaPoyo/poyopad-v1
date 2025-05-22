@@ -1,2 +1,2 @@
 # poyopad-v1
-My macropad
+My very very own macropad made in a few hours!
